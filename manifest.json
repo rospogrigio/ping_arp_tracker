@@ -1,0 +1,12 @@
+{
+  "domain": "ping_arp_tracker",
+  "name": "Ping+ARP tracker",
+  "version": "1.0.0",
+  "documentation": "https://github.com/rospogrigio/ping_arp_tracker",
+  "issue_tracker": "https://github.com/rospogrigio/ping_arp_tracker/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@rospogrigio"
+  ]
+}
